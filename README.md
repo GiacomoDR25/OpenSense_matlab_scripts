@@ -6,6 +6,7 @@ INPUTS: prepare a folder with <br />
 - *.sto file <br />
 - *.xml file <br />
 - model_scaled.osim <br />
+- matlab scripts
 
 These following steps refer to the OpenSense guide (Step 3 and 4):<br />
 
