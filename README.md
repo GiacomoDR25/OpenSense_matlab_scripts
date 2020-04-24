@@ -1,5 +1,7 @@
 # OpenSense_matlab_scripts
 
+*for now the myIMUMappings.xml and IMUDataConversion_GH.m are not used
+
 INPUTS: prepare a folder with <br />
 - *.sto file <br />
 - *.xml file <br />
