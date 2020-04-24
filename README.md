@@ -12,7 +12,7 @@ These following steps refer to the OpenSense guide (Step 3 and 4):<br />
 
 Step0: open and prepare the .xml file (see OpenSense guide - black windows)<br />
       - use -z as forward <br />
-      - pi/2, 0, 0 as rotation <br />
+      - -pi/2, 0, 0 as rotation <br />
       - pelvis as base imu <br />
 
 Step1: run OpenSense_CalibrateModel_GH.m (see comments inside the script)<br />
